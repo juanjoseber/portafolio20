@@ -1,0 +1,26 @@
+:root{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo{
+    width: 100px ;
+}
+#contenedor_cabecera{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#contenedor_banner{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+#descripcion{
+    font-size: xx-large;
+    color:brown;
+
+}
